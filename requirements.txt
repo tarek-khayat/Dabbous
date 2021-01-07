@@ -1,0 +1,14 @@
+seaborn==0.11.1
+transformers==4.1.1
+pandas==1.1.5
+pycountry_convert==0.7.2
+numpy==1.19.4
+torch==1.7.1.info
+streamlit==0.73.1
+scipy==1.6.0
+wikipedia==1.4.0
+matplotlib==3.3.3
+folium==0.12.0
+geopy==2.1.0
+Pillow==8.1.0
+scikit_learn==0.24.0
